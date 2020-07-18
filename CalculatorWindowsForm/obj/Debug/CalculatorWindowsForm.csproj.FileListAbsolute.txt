@@ -1,0 +1,9 @@
+C:\Users\Markus Løtveit\source\repos\CalculatorWindowsForm\CalculatorWindowsForm\bin\Debug\CalculatorWindowsForm.exe.config
+C:\Users\Markus Løtveit\source\repos\CalculatorWindowsForm\CalculatorWindowsForm\bin\Debug\CalculatorWindowsForm.exe
+C:\Users\Markus Løtveit\source\repos\CalculatorWindowsForm\CalculatorWindowsForm\bin\Debug\CalculatorWindowsForm.pdb
+C:\Users\Markus Løtveit\source\repos\CalculatorWindowsForm\CalculatorWindowsForm\obj\Debug\CalculatorWindowsForm.csprojAssemblyReference.cache
+C:\Users\Markus Løtveit\source\repos\CalculatorWindowsForm\CalculatorWindowsForm\obj\Debug\CalculatorWindowsForm.Form1.resources
+C:\Users\Markus Løtveit\source\repos\CalculatorWindowsForm\CalculatorWindowsForm\obj\Debug\CalculatorWindowsForm.Properties.Resources.resources
+C:\Users\Markus Løtveit\source\repos\CalculatorWindowsForm\CalculatorWindowsForm\obj\Debug\CalculatorWindowsForm.csproj.GenerateResource.cache
+C:\Users\Markus Løtveit\source\repos\CalculatorWindowsForm\CalculatorWindowsForm\obj\Debug\CalculatorWindowsForm.exe
+C:\Users\Markus Løtveit\source\repos\CalculatorWindowsForm\CalculatorWindowsForm\obj\Debug\CalculatorWindowsForm.pdb
